@@ -3,4 +3,5 @@
 
 ## Uvod u Markdown
 
--oznaka naslova "#"
+- Italic slova se onacavaju sa zvijezdicom na početku i kraju. Npr. *italic*
+
