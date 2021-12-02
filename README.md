@@ -3,5 +3,4 @@
 
 ## Uvod u Markdown
 
-bold sloava se koriste sa simbolom "**" **podebljano**
-naslovi se označavaju s #
+-oznaka naslova "#"
