@@ -3,5 +3,5 @@
 
 ## Uvod u Markdown
 
-- Italic slova se onacavaju sa zvijezdicom na početku i kraju. Npr. *italic*
+- Italic slova se onacavaju sa zvijezdicom na početku i kraju * * . Npr. *italic*
 
