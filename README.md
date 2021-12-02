@@ -4,3 +4,5 @@
 ## Uvod u Markdown
 
 bold sloava se koriste sa simbolom "**" **podebljano**
+
+Naslovi se označavaju sa znakom " # " 
