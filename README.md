@@ -5,3 +5,4 @@
 
 - Italic slova se onacavaju sa zvijezdicom na početku i kraju * * . Npr. *italic*
 
+- izmjena ...
