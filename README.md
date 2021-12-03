@@ -8,4 +8,4 @@
 - izmjena ...
 - dodati novi redak (za branch test)
 - Testni commit -> fkarinja
-- Testni commit -> ArchSupremacy / Patrik Purgar
+
