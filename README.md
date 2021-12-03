@@ -9,5 +9,3 @@
 - dodati novi redak (za branch test)
 - Testni commit -> fkarinja
 
-
-# 2028/2029
