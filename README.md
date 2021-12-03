@@ -6,4 +6,5 @@
 - Italic slova se onacavaju sa zvijezdicom na početku i kraju * * . Npr. *italic*
 
 - izmjena ...
-- SE DOGODILA!
+- tesni commit -> fkarinja
+
