@@ -8,4 +8,3 @@
 - izmjena ...
 - dodati novi redak (za branch test)
 - Testni commit -> fkarinja
-- Novi commit -martacukelj
