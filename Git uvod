@@ -1,0 +1,49 @@
+#**Uvod u Git**
+
+##Instalacija##
+
+Github za Windows
+https://windows.github.comn
+Mac 
+https://mac.github.com
+Ostale platforme
+https://git-scm.com
+
+##Konfiguriranje Git-a
+
+$ git config --global user.name "[name]
+$ git config --global user.email "[email adress]
+$ git config --global global color.ui auto
+
+##Kreiranje i konfiguracija branches-a
+
+$ git branch [branch name]
+$ git checkout [branch neme]
+$ git merge [branches]
+$ git branch -d [branch name]
+
+##Kreiranje repozitorija
+
+$ git init
+$ git clone [url]
+
+##Sinkronizacija promjena
+
+$ git fetch 
+$ git merge
+$ git push 
+$ git pull
+
+##Mijenjanje stvari
+
+$ git log
+$ git log --follow[file]
+$ git diff [first-brench]... [second-banch]
+$ git show [commit]
+$ git add [file]
+$ git commit -m "[descriptive message]
+
+##Poništavanje stvari i vraćanje u zadnju verziju (praktički CTRL+Z)
+
+$ git reset
+$ git reset
