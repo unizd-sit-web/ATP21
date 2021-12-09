@@ -1,7 +1,5 @@
 # Welcome to ATP 2021./2022
 
-Hello, world!
-
 # Voluptas canum progenies et esse referre
 
 ## Aperti figuris Ixiona
